@@ -9,6 +9,11 @@ import org.springframework.web.servlet.ModelAndView;
  *
  * @author johnsmart
  */
+/**
+ * Just adding a comment.
+ *
+ * @author Pavan
+ */
 @Controller
 public class HomePageController {
     // FIXME: do something nicer for the home page
